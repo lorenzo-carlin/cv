@@ -7,7 +7,6 @@
 Trento, Italy
 
 [![English CV](https://img.shields.io/badge/CV-English-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./pdf/Lorenzo_Carlin_CV.pdf)
-[![Europass CV](https://img.shields.io/badge/CV-Italian-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./pdf/Lorenzo_Carlin_CV_Europass.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-lorenzo--carlin-181717?style=for-the-badge&logo=github)](https://github.com/lorenzo-carlin)
 
 </div>
