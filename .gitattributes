@@ -1,0 +1,11 @@
+# PDFs
+*.pdf binary
+
+# Archives
+*.zip binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
