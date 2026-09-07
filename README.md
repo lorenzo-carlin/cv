@@ -76,7 +76,7 @@ Italian Olympiad in Informatics
 **B.Sc.**
 
 Computer Science  
-University of Trento
+University of Trento  
 2025 - ...
 
 </td>
