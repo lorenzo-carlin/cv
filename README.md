@@ -6,8 +6,8 @@
 
 Trento, Italy
 
-[![English CV](https://img.shields.io/badge/CV-English-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./pdf/Lorenzo_Carlin_CV_EN.pdf)
-[![Italian CV](https://img.shields.io/badge/CV-Italian-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./pdf/Lorenzo_Carlin_CV_IT.pdf)
+[![English CV](https://img.shields.io/badge/CV-English-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./pdf/Lorenzo_Carlin_CV.pdf)
+[![Europass CV](https://img.shields.io/badge/CV-Italian-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./pdf/Lorenzo_Carlin_CV_Europass.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-lorenzo--carlin-181717?style=for-the-badge&logo=github)](https://github.com/lorenzo-carlin)
 
 </div>
@@ -31,36 +31,6 @@ programming, optimization, data science and artificial intelligence.
 <tr>
 <td align="center" width="20%">
 
-🥈
-
-**Silver Medal**
-
-Italian Olympiad in Informatics  
-2024
-
-</td>
-<td align="center" width="20%">
-
-🥇
-
-**Gold Medal**
-
-Italian Olympiads in Informatics in Teams  
-2023
-
-</td>
-<td align="center" width="20%">
-
-🏕️
-
-**Selection Camp**
-
-Italian Olympiad in Informatics  
-2025
-
-</td>
-<td align="center" width="20%">
-
 🎓
 
 **B.Sc.**
@@ -79,6 +49,36 @@ Italian Mathematics Olympiad
 2025
 
 </td>
+<td align="center" width="20%">
+
+🏕️
+
+**Selection Camp**
+
+Italian Olympiad in Informatics  
+2025
+
+</td>
+<td align="center" width="20%">
+
+🥈
+
+**Silver Medal**
+
+Italian Olympiad in Informatics  
+2024
+
+</td>
+<td align="center" width="20%">
+
+🥇
+
+**Gold Medal**
+
+Italian Olympiads in Informatics in Teams  
+2023
+
+</td>
 </tr>
 </table>
 
@@ -88,11 +88,7 @@ Italian Mathematics Olympiad
 
 ### 🇬🇧 English
 
-**[Download / View English CV →](./pdf/Lorenzo_Carlin_CV_EN.pdf)**
-
-### 🇮🇹 Italiano
-
-**[Scarica / Visualizza il CV italiano →](./pdf/Lorenzo_Carlin_CV_IT.pdf)**
+**[Download / View English CV →](./pdf/Lorenzo_Carlin_CV.pdf)**
 
 ### 🇪🇺 Europass
 
@@ -131,7 +127,7 @@ My experience includes:
 | Platform | Profile |
 | --- | --- |
 | GitHub | [lorenzo-carlin](https://github.com/lorenzo-carlin) |
-| Codeforces | [Profile](https://codeforces.com/) |
+| Codeforces | [LorenzoC](https://codeforces.com/) |
 | LeetCode | [Profile](https://leetcode.com/) |
 | Olinfo Training | [Profile](https://training.olinfo.it/) |
 
