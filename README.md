@@ -31,12 +31,22 @@ programming, optimization, data science and artificial intelligence.
 <tr>
 <td align="center" width="20%">
 
-🎓
+🥇
 
-**B.Sc.**
+**Gold Medal**
 
-Computer Science  
-University of Trento
+Italian Olympiads in Informatics in Teams  
+2023
+
+</td>
+<td align="center" width="20%">
+
+🥈
+
+**Silver Medal**
+
+Italian Olympiad in Informatics  
+2024
 
 </td>
 <td align="center" width="20%">
@@ -61,22 +71,13 @@ Italian Olympiad in Informatics
 </td>
 <td align="center" width="20%">
 
-🥈
+🎓
 
-**Silver Medal**
+**B.Sc.**
 
-Italian Olympiad in Informatics  
-2024
-
-</td>
-<td align="center" width="20%">
-
-🥇
-
-**Gold Medal**
-
-Italian Olympiads in Informatics in Teams  
-2023
+Computer Science  
+University of Trento
+2025 - ...
 
 </td>
 </tr>
@@ -126,10 +127,12 @@ My experience includes:
 
 | Platform | Profile |
 | --- | --- |
-| GitHub | [lorenzo-carlin](https://github.com/lorenzo-carlin) |
-| Codeforces | [LorenzoC](https://codeforces.com/) |
-| LeetCode | [Profile](https://leetcode.com/) |
-| Olinfo Training | [Profile](https://training.olinfo.it/) |
+| AtCoder | [LorenzoC](https://atcoder.jp/users/LorenzoC) |
+| CSES | [LorenzoC](https://cses.fi/user/139403) |
+| Codeforces | [LorenzoC](https://codeforces.com/profile/LorenzoC) |
+| Kattis | [Lorenzo Carlin](https://open.kattis.com/users/lorenzo-carlin1) |
+| LeetCode | [LorenzoC](https://leetcode.com/u/b5U0aS5PoL/) |
+| Olinfo Training | [LorenzoC](https://training.olinfo.it/user/LorenzoC) |
 
 ---
 
@@ -144,8 +147,7 @@ languages.
 │   └── preview.png
 │
 ├── pdf/
-│   ├── Lorenzo_Carlin_CV_EN.pdf
-│   ├── Lorenzo_Carlin_CV_IT.pdf
+│   ├── Lorenzo_Carlin_CV.pdf
 │   └── Lorenzo_Carlin_CV_Europass.pdf
 │
 ├── archive/
