@@ -78,6 +78,7 @@ My experience includes:
 
 ## Profiles
 
+<div align="center">
 
 [![AtCoder](https://img.shields.io/badge/AtCoder-LorenzoC-3E4E88?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/LorenzoC)
 
@@ -91,6 +92,8 @@ My experience includes:
 
 [![Olinfo Training](https://img.shields.io/badge/Olinfo_Training-LorenzoC-4C4C4C?style=flat-square)](https://training.olinfo.it/user/LorenzoC)
 
+
+</div>
 
 ---
 
