@@ -28,13 +28,33 @@ programming, optimization, data science and artificial intelligence.
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| 🥇 | **Gold Medal** | Italian Olympiads in Informatics in Teams · 2023 |
-| 🥈 | **Silver Medal** | Italian Olympiad in Informatics · 2024 |
-| 🏅 | **Honorable Mention** | Italian Mathematics Olympiad · 2025 |
-| 🏕️ | **Selection Camp** | Italian Olympiad in Informatics · 2025 |
-| 🎓 | **B.Sc. Computer Science** | University of Trento · 2025 – present |
+<table style="border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; border-collapse: collapse;">
+  <tr>
+    <td align="center">🥇</td>
+    <td><b>Gold Medal</b></td>
+    <td>Italian Olympiads in Informatics in Teams · 2023</td>
+  </tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td><b>Silver Medal</b></td>
+    <td>Italian Olympiad in Informatics · 2024</td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>Honorable Mention</b></td>
+    <td>Italian Mathematics Olympiad · 2025</td>
+  </tr>
+  <tr>
+    <td align="center">🏕️</td>
+    <td><b>Selection Camp</b></td>
+    <td>Italian Olympiad in Informatics · 2025</td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>B.Sc. Computer Science</b></td>
+    <td>University of Trento · 2025 – present</td>
+  </tr>
+</table>
 
 </div>
 
