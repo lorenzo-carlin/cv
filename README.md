@@ -94,7 +94,7 @@ My experience includes:
 - Complexity analysis
 - Problem solving under time constraints
 
-> For my online judge profiles (Codeforces, AtCoder, CSES, etc.), code solutions, and practice archives, check out my [Competitive-Programming](https://github.com/IL_TUO_USERNAME/Competitive-Programming) repository.
+> For my online judge profiles (Codeforces, AtCoder, CSES, etc.), code solutions, and practice archives, check out my [Competitive-Programming](https://github.com/lorenzo-carlin/Competitive-Programming) repository.
 
 ---
 
