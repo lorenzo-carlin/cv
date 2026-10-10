@@ -105,16 +105,27 @@ languages.
 
 ```text
 .
+├── archive/
+│   ├── Lorenzo_Carlin_CV_EN.zip
+│   └── Lorenzo_Carlin_CV_IT.zip
+|
 ├── assets/
 │   └── preview.png
+|
+├── src/
+|   ├── section/
+|   |   └── achievements.tex
+|   |   └── competitive_programming.tex
+|   |   └── education.tex
+|   |   └── experience.tex
+|   |   └── leadership.tex
+|   |   └── profile.tex
+|   |   └── skills.tex
+│   └── main.tex
 │
 ├── pdf/
 │   ├── Lorenzo_Carlin_CV.pdf
 │   └── Lorenzo_Carlin_CV_Europass.pdf
-│
-├── archive/
-│   ├── Lorenzo_Carlin_CV_EN.zip
-│   └── Lorenzo_Carlin_CV_IT.zip
 │
 ├── LICENSE
 └── README.md
